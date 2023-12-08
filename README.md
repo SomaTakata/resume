@@ -27,6 +27,7 @@
 |Zenn|[https://zenn.dev/ts_soma](https://zenn.dev/ts_soma)|
 |twitter|[https://twitter.com/soma_web_design](https://twitter.com/soma_web_design)|
 |mail|[Gmail](ts13.trade@gmail.com)|
+|RESUME|[https://www.resume.id/soma_ts]|
 </br>
 
 ## 学歴・職歴
@@ -101,12 +102,6 @@
 - デザイン
 - 実装・テスト・デプロイ
 - LLMを使用した社内サービスの制作
-
-### 株式会社Michibiku Group 執行役員 （2023.11 -）
-
-#### エンジニア＆執行役員
-
-- コーディング
 
 
 </br>
