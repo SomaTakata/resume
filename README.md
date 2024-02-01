@@ -25,9 +25,9 @@
 |媒体|リンク|
 |---|-----|
 |Zenn|[https://zenn.dev/ts_soma](https://zenn.dev/ts_soma)|
-|twitter|[https://twitter.com/soma_web_design](https://twitter.com/soma_web_design)|
+|twitter|[https://twitter.com/soma_takata](https://twitter.com/soma_takata)|
 |mail|[Gmail](ts13.trade@gmail.com)|
-|RESUME|[https://www.resume.id/soma_ts]|
+|RESUME|[https://www.resume.id/soma_takata]|
 </br>
 
 ## 学歴・職歴
